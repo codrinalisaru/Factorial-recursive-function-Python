@@ -1,4 +1,4 @@
 # Factorial-recursive-function-Python
 
 What does factorial mean? 
-s
+Factorial = the product of an integer and all the integers below it
